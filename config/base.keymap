@@ -23,7 +23,7 @@
 #define UC 5
 
 #include "combos.dtsi"  // must be sourced after layer-shortcuts
-#include "mouse.dtsi"
+// #include "mouse.dtsi"
 #include "xtr_defaults.h"
 
 ZMK_CONDITIONAL_LAYER(SYS NUM, FN)  // SYS + NUM --> FN
